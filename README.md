@@ -4,15 +4,15 @@ XLogin is a secure and efficient user authentication module that handles user re
 
 ## Table of Contents 📚
 
-- [Introduction🚀](#introduction)
-- [Features🛠️](#features)
-- [Screenshot📷](#screenshot)
-- [Getting Started🎯](#getting-started)
-- [Prerequisites📋](#prerequisites)
-- [Installation⚙️](#installation)
-- [Usage📈](#usage)
-- [Contributing❤️](#contributing)
-- [License📝](#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction🚀
 
